@@ -4,12 +4,19 @@
 
 # Table of Contents
 Installation
+
 Dataset
+
 Model Architecture
+
 Training
+
 Fine-Tuning
+
 Generating Images
+
 Results
+
 Acknowledgments
 
 
